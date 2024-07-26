@@ -1,0 +1,43 @@
+.hero-container{
+   background-image: url("./images/herobg.jpeg");
+   width: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   padding: 100px;
+}
+
+.hero-container img{
+
+    width: 538px;
+}
+
+.hero-container p{
+    font-family: "Segoe Script";
+    font-size: 25px;
+}
+
+.hero-container button{
+    font-family: "Segoe Script";
+    padding: 20px;
+    width: 500px;
+    margin-top: 20px;
+    border-radius: 50px;
+    border-style: none;
+    background: #203959;
+    color: white;
+    font-size: 25px;
+}
+
+@media  screen and (max-width:769px){
+    .hero-container img{
+
+        width: 300px;
+    }
+    .hero-container p{
+        font-family: "Segoe Script";
+        font-size: 20px;
+    }
+    .hero-container button{
+        width: 300px;
+    }
+}

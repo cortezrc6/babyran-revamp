@@ -10,7 +10,7 @@ return (
     <><nav>
         <a><img src="./babyran images/Babyran Revamp logo1.png"/></a>
         <div>
-        <ul id="navbar" className={this.state.clicked ? "#navbar active" : "#navbar"}>
+        <ul id="navbar" className={this.state.clicked ? "#navbar active" : "navbar"}>
         <li><a className="active" href="index.html">Home</a></li>
         <li><a href="#">Download</a></li>
         <li><a href="#">Top-Up</a></li>

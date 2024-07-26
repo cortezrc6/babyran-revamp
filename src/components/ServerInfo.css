@@ -1,0 +1,52 @@
+.server-container{
+    background: #203959;
+}
+
+.server-container img{
+    margin-top: 100px;
+    width: 400px;
+}
+
+.server-description{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    gap: 100px;
+    margin-top: 50px;
+    font-family: Impact;
+    color: #FFD500;
+}
+
+.server-info ul{
+    margin-top: 30px;
+}
+.server-info ul li{
+    color: white;
+    text-align: left;
+    margin-top: 10px;
+}
+.freebies h2{
+    text-align: left;
+    color: white;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+.freebies ul{
+    margin-top: 30px;
+}
+.freebies ul li{
+    color: white;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.cap-reward{
+    margin-top: 50px;
+}
+.pvp-wars{
+    margin-top: 50px;
+}
+.pvp-wars ul li{
+    text-align: center;
+    list-style: none;
+}
