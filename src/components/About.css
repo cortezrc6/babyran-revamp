@@ -1,0 +1,7 @@
+.about-container{
+    background-image: url("./images/herobg.jpeg");
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    gap: 100px;
+}

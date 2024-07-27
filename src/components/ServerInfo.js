@@ -65,6 +65,17 @@ function ServerInfo(){
             </div>
             </div>
         </div>
+
+        <div className="promo-register">
+        <h1>PROMO FOR NEWLY REGISTERED ACCOUNT</h1>
+                <ul>
+                <li> FREE PREMIUM ITEMS:</li>
+                <li>- 1x God of War's Helmet +50</li>
+                <li>- 2x Almighty Ring</li>
+                <li>- 20pcs HP card worth of 5,000 E-Points</li>
+                <li>JUST REACH MAX REBORN AND MAX LEVEL AND YOU WILL GET THESE ITEMS</li>
+                </ul>
+        </div>
         </div>
       
         </>

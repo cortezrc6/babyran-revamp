@@ -50,3 +50,45 @@
     text-align: center;
     list-style: none;
 }
+
+.promo-register{
+    margin-top: 50px;
+    color: #FFD500;
+    font-family: impact;
+    padding-bottom: 50px;
+}
+.promo-register h1{
+    margin-bottom: 30px;
+}
+.promo-register ul li{
+    color: white;
+    margin-top: 10px;
+}
+
+@media  screen and (max-width:800px){
+    .server-description{
+        display: block;
+        font-size: 15px;  
+    }
+
+   
+    .server-info ul li{
+        color: white;
+        text-align: center;
+    }
+    .freebies{
+        margin-top: 50px;
+    }
+    .freebies h2{
+        text-align: center;
+    }
+
+    .freebies ul li{
+        color: white;
+        text-align: center;
+    }
+
+    .server-container img{
+        width: 350px;
+    }
+}
