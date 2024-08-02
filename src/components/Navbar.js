@@ -8,7 +8,7 @@ class Navbar extends Component {
   render(){  
 return (
     <><nav>
-        <a><img src="./babyranimages/Babyran Revamp logo1.PNG"/></a>
+        <a><img src="./Babyranimages/Babyran Revamp logo1.png"/></a>
         <div>
         <ul id="navbar" className={this.state.clicked ? "#navbar active" : "navbar"}>
         <li><a className="active" href="index.html">Home</a></li>

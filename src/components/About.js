@@ -28,7 +28,7 @@ This is a free to play server and only for study purpose. Though if you like the
 
 <p>You can read more about donations in the top up tab.</p>
             </div>
-            <img src="./babyranimages/babyranguywithlogo.PNG" alt="About Babyran"/>
+            <img src="./Babyranimages/babyranguywithlogo.png" alt="About Babyran"/>
         </div>
         
       
