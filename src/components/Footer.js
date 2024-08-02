@@ -5,7 +5,7 @@ function Footer(){
         <>
         <div className="Footer-container">
             <div className="Footer-left">
-        <img src="./babyran images/Babyran Revamp logo1.PNG" alt="Babyran Logo"/>
+        <img src="./babyranimages/Babyran Revamp logo1.PNG" alt="Babyran Logo"/>
             <div className="Footer-content">
         <h1>BABYRAN REVAMP</h1>
         <p>Copyright 2024 Babyran Revamp, All Rights Reserved.</p>
@@ -13,7 +13,7 @@ function Footer(){
         </div>
 
         <div className="rc-development">
-        <img src="./babyran images/RC.PNG" alt="Babyran Logo"/>
+        <img src="./babyranimages/RC.PNG" alt="Babyran Logo"/>
             <p>Developed by: Rolly Cortez</p>
         </div>
         </div>

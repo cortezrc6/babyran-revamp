@@ -4,7 +4,7 @@ function HeroSection(){
     return(
         <>
         <div className="hero-container">
-        <img src="./babyran images/Babyran Revamp logo2.PNG" alt="Babyran Revamp"/>
+        <img src="./babyranimages/Babyran Revamp logo2.PNG" alt="Babyran Revamp"/>
         <p>BabyRan Online Gaming Experience</p>
         <button>DOWNLOAD NOW</button>
         </div>

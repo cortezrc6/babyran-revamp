@@ -3,7 +3,7 @@ function ServerInfo(){
     return(
         <>
         <div className="server-container">
-        <img src="./babyran images/Babyran Revamp logo1.PNG" alt="Babyran Logo"/>
+        <img src="./babyranimages/Babyran Revamp logo1.PNG" alt="Babyran Logo"/>
         <div className="server-description">
             <div className="server-info">
             <h1>SERVER INFORMATION</h1>
