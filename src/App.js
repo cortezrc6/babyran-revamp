@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
 import ServerInfo from './components/ServerInfo';
 import About from './components/About';
-
+import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
@@ -12,6 +12,7 @@ function App() {
       <HeroSection />
       <ServerInfo />
       <About />
+      <Footer />
     </div>
   );
 }

@@ -1,3 +1,4 @@
+
 .server-container{
     background: #203959;
 }
@@ -75,6 +76,8 @@
     .server-info ul li{
         color: white;
         text-align: center;
+        margin: 15px;
+        list-style: none;
     }
     .freebies{
         margin-top: 50px;
@@ -90,5 +93,13 @@
 
     .server-container img{
         width: 350px;
+    }
+    .promo-register h1{
+        margin: 10px;
+    }
+    .promo-register ul li{
+        font-size: 15px;
+        margin: 15px;
+        list-style: none;
     }
 }
